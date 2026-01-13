@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          user: kalmlpv
+          user: qa-6
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-personal.svg
           committer_token: ${{ secrets.GITHUB_TOKEN }}
