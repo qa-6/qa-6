@@ -1,3 +1,6 @@
+###このアカウントについて
+osu!などでツールを作ることがあれば使用します 基本的に使わない
+
 ![Metrics](./github-metrics-personal.svg)
 　
 <!--
